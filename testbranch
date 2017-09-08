@@ -1,1 +1,5 @@
 #trial of branch creation
+hours = raw_input ('Enter hours:')
+rate = raw_input ('Enter rate:')
+pay = int (hours)* float (rate)
+print pay
